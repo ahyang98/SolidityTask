@@ -1,0 +1,12 @@
+{
+    "description": "My little flying elephant.", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "https://simple-sapphire-gecko.myfilebase.com/ipfs/QmdqPZBt5LSwr5dY69FHfM6JSFUwduzsb3UMfwxWLioGub", 
+    "name": "Little Flying Elephant",
+    "attributes": [
+        {
+            "trait_type": "Age",
+            "value": "6"
+        }
+    ]    
+  }
